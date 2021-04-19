@@ -1,0 +1,66 @@
+.front{
+  background-color: #D8E3E7;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+.download{
+  text-align: center;
+  margin: 15px auto 0 25px;
+}
+.downbuttons{
+  padding:0 2% 0 10%;
+}
+#row1{
+  margin-right: 0;
+}
+.fa-leaf{
+  font-size: 6rem;
+  color: #81b214;
+}
+#featurecol{
+  text-align: center;
+  margin-top: 20px;
+}
+#featurerow{
+  margin-top: 35px;
+  margin-right: 0;
+}
+.fa-tint{
+  font-size: 6rem;
+  color: #28b5b5;
+}
+.fa-heart{
+  font-size: 6rem;
+  color: #ff8882;
+}
+.fhead{
+  font-family: 'Ubuntu', sans-serif;
+}
+.fdis{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+.fa-tint:hover{
+  color: #9dbeb9;
+}
+.fa-leaf:hover{
+  color: #9dbeb9;
+}
+.fa-heart:hover{
+  color: #9dbeb9;
+}
+#testimonials{
+  background-color: #51c4d3;
+}
+.carousel-item{
+  padding-top: 50px;
+  height: 250px;
+}
+#caro{
+  text-align: center;
+}
+.bottom{
+  height: 100px;
+  background-color: #D8E3E7;
+}
